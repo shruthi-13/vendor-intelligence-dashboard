@@ -2,7 +2,7 @@
 
 **Tools:** Power BI Desktop · DAX · Power Query · Star Schema · Excel  
 **Program:** Build Fellowship by Open Avenues  
-**Duration:** 2025
+**Duration:** Feb 2026
 
 ---
 
